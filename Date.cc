@@ -1,7 +1,3 @@
-//Jordan Brown
-//Honors
-//.cc file
-
 #include "Date.h"
 #include <iostream>
 #include <iomanip>
